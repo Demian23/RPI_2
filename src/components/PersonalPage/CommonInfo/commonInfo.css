@@ -1,0 +1,22 @@
+.personDescription{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.common_container{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin: 20px auto;
+}
+.common_container__right{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    margin: auto;
+}
+
+

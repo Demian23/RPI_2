@@ -1,0 +1,14 @@
+.map{
+    display: flex;
+    height: 700px;
+    width: 1000px;
+    align-items: center;
+    justify-content: center;
+}
+
+.map_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}

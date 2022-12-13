@@ -1,0 +1,31 @@
+.coders__container{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    margin: 30px auto;
+
+}
+
+.coder__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.coder__image{
+    width: 60%;
+    height: 60%;
+    border-radius: 8px;
+    border: 4px solid rgb(14, 22, 19);
+}
+
+.coder__name{
+    font-size: 20;
+}
+
+.coder__github{
+    font-style: italic;
+}

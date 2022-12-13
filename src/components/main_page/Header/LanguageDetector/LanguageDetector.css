@@ -1,0 +1,22 @@
+select {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: cursive, sans-serif;
+    outline: 0;
+    background: grey;
+    color: #fff;
+    border: 1px solid white;
+    padding: 4px;
+    border-radius: 9px;
+  }
+
+.language-container {
+    font-size: 22px;
+    text-decoration: none;
+    color: rgb(210, 140, 110);
+}
+
+.language-container label {
+    margin: 0 8px;
+}
+        

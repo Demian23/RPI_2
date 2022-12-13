@@ -1,0 +1,17 @@
+.portal_description{
+    background-color: rgb(33, 33, 16);
+    color: rgb(165, 130, 64);
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    padding-left: 20px;
+    width: 80%;
+    border: 5px solid rgb(14, 22, 19);
+}
+.portal_description ul{
+    margin-left: 100px;
+    list-style:circle;
+}
+.portal_description ul li{
+    font-style: oblique;
+}
